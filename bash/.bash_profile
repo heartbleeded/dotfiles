@@ -42,8 +42,6 @@ alias pbpaste='xclip -selection clipboard -o'
 alias cgc='cd ~/ctfs/cgc; vagrant up; vagrant ssh'
 alias binja='cd ~/binaryninja; ./binaryninja'
 
-alias aws-personal='ssh -i ~/.znc.pem ubuntu@54.148.111.51'
-
 export GOPATH=${HOME}/.go
 export GOROOT=${HOME}/go
 export PATH="$GOROOT/bin:$GOPATH/bin:$PATH"

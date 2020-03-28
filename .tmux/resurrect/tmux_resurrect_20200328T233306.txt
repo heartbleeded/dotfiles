@@ -1,0 +1,7 @@
+pane	0	1	:zsh	1	:*	1	:/Users/admin	1	zsh	:
+pane	0	1	:zsh	1	:*	2	:/Users/admin/.tmux	0	zsh	:
+pane	5	1	:zsh	1	:*	1	:/Users/admin	0	zsh	:
+pane	5	1	:zsh	1	:*	2	:/Users/admin/.tmux/plugins	1	zsh	:
+window	0	1	1	:*	27a7,212x63,0,0[212x29,0,0,0,212x33,0,30,1]
+window	5	1	1	:*	414d,106x41,0,0[106x20,0,0,11,106x20,0,21,12]
+state	5	
